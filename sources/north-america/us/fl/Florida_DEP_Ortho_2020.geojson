@@ -9,7 +9,7 @@
         },
         "name": "Florida DEP Orthoimagery Composite (2020)",
         "icon": "https://github.com/osmlab/editor-layer-index/raw/gh-pages/sources/north-america/us/fl/Florida_DEP.png",
-        "url": "https://ca.dep.state.fl.us/arcgis/rest/services/Imagery/Aerial_Imagery_2020/ImageServer/exportImage?f=image&format=jpg&imageSR={wkid}&bboxSR={wkid}&bbox={bbox}&size={width},{height}&foo={proj}",
+        "url": "https://ca.dep.state.fl.us/arcgis/rest/services/Imagery/Aerial_Imagery_2020/ImageServer/exportImage?f=image&format=jpg&imageSR={wkid}&bboxSR={wkid}&bbox={bbox}&size={width},{height}",
         "max_zoom": 19,
         "license_url": "https://wiki.openstreetmap.org/wiki/Florida#Publicly_Available_Data",
         "country_code": "US",
@@ -22,7 +22,7 @@
         "start_date": "2019-12",
         "end_date": "2020-07",
         "description": "Florida Department of Environmental Protection orthoimagery captured in 2020, not covering the entire state",
-        "category": "photo",
+        "category": "historicphoto",
         "valid-georeference": true,
         "privacy_policy_url": "https://floridadep.gov/privacy-statement"
     },
